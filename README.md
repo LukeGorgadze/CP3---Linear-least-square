@@ -1,5 +1,6 @@
 # CP3 Linear least square
  
+### Happy New Year 🥳🥳🥳
 ## My ideas for this project:
 * Predicting average lifespan of humans with the amount of their sleep and relevant life habits that are related to their health
 * Predicting income based on age. The model could be used to make predictions about a person's income at different ages, or to understand the relationship between age and income depending on the time person dedicates to work or studying while constraining the index of individual's profession (In simple terms, how much it's related to tech on the scale of 0-10).
